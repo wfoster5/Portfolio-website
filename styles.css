@@ -1,0 +1,66 @@
+/* General reset */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header styling */
+  header {
+    background-color: #ffffff;
+    padding: 10px 0;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: center;
+    gap: 220px;
+  }
+  
+  nav button {
+    background-color: black;
+    color: #4db478;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  nav button:hover {
+    opacity: 0.8;
+  }
+  
+  /* Image section styling */
+  .image-section img {
+    width: 400px;
+    height: auto;
+    margin: 10px;
+    
+    margin-left: 750px;
+  }
+  
+  
+  
+ 
+  
+  /* Tools section styling */
+  .tools {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px 0;
+  }
+  
+  .tools img {
+    width: 50px;
+    height: auto;
+  }
+  
+  /* Footer styling */
+  footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #f0f0f0;
+    font-size: 14px;
+  }
+  
