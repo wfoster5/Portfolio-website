@@ -1,0 +1,16 @@
+h1{
+    font-weight: bold;
+    font-size: 42px;
+    text-align: center;
+    margin-left: 550px;
+}
+p{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    justify-items: center;
+    margin-left: 250px;
+}
+body{
+    width: 1050px;
+    
+}
