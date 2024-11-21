@@ -11,13 +11,13 @@ body, html {
     padding: 10px 0;
   }
   
-  nav {
+  nav ul{
     display: flex;
     justify-content: center;
     gap: 220px;
   }
   
-  nav button {
+  nav ul a {
     background-color: black;
     color: #4db478;
     border: none;
@@ -26,7 +26,7 @@ body, html {
     cursor: pointer;
   }
   
-  nav button:hover {
+  nav ul a li:hover {
     opacity: 0.8;
   }
   
