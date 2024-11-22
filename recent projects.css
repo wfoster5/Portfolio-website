@@ -32,33 +32,3 @@ body, html {
   nav ul a :hover {
     opacity: 0.8;
   }
-  
-  /* Image section styling */
-  .image-section img {
-    width: 400px;
-    height: auto;
-    margin: 10px;
-    display: flex;
-    margin-left: 750px;
-  }
-  
-  /* Tools section styling */
-  .tools {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-  }
-  
-  .tools img {
-    width: 50px;
-    height: auto;
-  }
-  
-  /* Footer styling */
-  footer {
-    text-align: center;
-    padding: 10px 0;
-    background-color: #f0f0f0;
-    font-size: 20px;
-  }
-  
